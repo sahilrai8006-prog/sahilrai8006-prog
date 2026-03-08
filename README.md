@@ -36,14 +36,10 @@
 ---
 
 ## 📊 GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=sahilrai8006-prog&show_icons=true&theme=tokyonight"/>
 
----
-
 ## 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrai8006-prog&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=sahilrai8006-prog&theme=tokyonight"/>
 
 ---
 
