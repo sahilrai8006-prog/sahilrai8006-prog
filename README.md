@@ -40,11 +40,7 @@ Docker App| Containerized application
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrai8006-prog&theme=tokyo-night"/></div>---
 
-🐍 Snake Contribution Animation
-
-<div align="center">"snake gif" (https://github.com/sahilrai8006-prog/sahilrai8006-prog/blob/output/github-contribution-grid-snake.svg)
-
-</div>---
+![snake gif](https://github.com/sahilrai8006-prog/sahilrai8006-prog/blob/output/github-contribution-grid-snake.svg)
 
 🌐 Connect With Me
 
