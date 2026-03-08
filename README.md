@@ -34,9 +34,15 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sahilrai8006-prog&show_icons=true&theme=tokyonight"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilrai8006-prog&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai8006-prog&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=sahilrai8006-prog&theme=tokyonight"/>
