@@ -53,20 +53,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai8006-prog&layout=compact&theme=tokyonight"/>
 
----
-
-## 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrai8006-prog&theme=tokyo-night"/>
-
----
-
-## 🤝 Connect With Me
-
-GitHub:  
-https://github.com/sahilrai8006-prog
-
----
 
 ⭐ From **Sahil Kalar**
-⭐ From Sahil Kalar
