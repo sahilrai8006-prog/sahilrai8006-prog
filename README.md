@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil <h1 align="center">Hi 👋, I'm Sahil Kalar</h1>
+<h1 align="center">Hi 👋, I'm Sahil Kalar</h1>
 <h3 align="center">🚀 Junior DevOps Engineer | Web Developer</h3>
 
 <p align="center">
